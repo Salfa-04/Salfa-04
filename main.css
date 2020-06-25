@@ -10,13 +10,6 @@ h1 {
     font-weight: 500;
     margin-bottom: 0;
 }
-h2 {
-    font-size: 2.2em;
-    font-weight: 500;
-    line-height: 1.4;
-    max-width: 26em;
-    margin-bottom: 0;
-}
 p {
     font-size: 1.6em;
     font-weight: 300;
@@ -41,4 +34,24 @@ a:after {
 }
 a:hover:after {
     top: 0%;
+}
+h2 {
+    font-size: 2.2em;
+    font-weight: 500;
+    line-height: 1.4;
+    max-width: 26em;
+    margin-bottom: 0;
+}
+hr {
+    border-width: 1px 0px 0px;
+    border-top-style: solid;
+    border-right-style: initial;
+    border-bottom-style: initial;
+    border-left-style: initial;
+    border-top-color: rgb(234, 234, 234);
+    border-right-color: initial;
+    border-bottom-color: initial;
+    border-left-color: initial;
+    border-image: initial;
+    margin: 50px 0px;
 }
