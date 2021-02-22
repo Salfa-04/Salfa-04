@@ -14,4 +14,4 @@
 
 ![ThaJam's github stats](https://github-readme-stats.vercel.app/api/?username=thajam&show_icons=true)
 
-###### 💾 EOF
+###### :cloud: :floppy_disk: EOF
