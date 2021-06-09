@@ -12,6 +12,6 @@
 - WeChat: `thatryphax`
 
 
-![ThaJam's github stats](https://github-readme-stats.vercel.app/api/?username=thajam&show_icons=true)
+![ThaJam's Github Stats](https://github-readme-stats.vercel.app/api/?username=thajam&show_icons=true)
 
 ###### :cloud: :floppy_disk: EOF
