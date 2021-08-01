@@ -5,7 +5,7 @@
 
 **Where to find me :beers:**
 
-- Email: `thatryphax@gmail.com`
+- Email: `thajam@foxmail.com`
 - Bilibili: [`神奇的砂酱`](https://space.bilibili.com/33382859)
 - Coolapk: [`神奇的砂酱`](https://www.coolapk.com/u/564201)
 - QQ: [`3033402535`](https://wpa.qq.com/msgrd?v=3&uin=3033402535&site=qq&menu=yes)
