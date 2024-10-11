@@ -1,5 +1,7 @@
 # Hi there, I'm Salfa. :wave:
 
+![Salfa](Pictures/profile_mini.svg "Salfa's Avatar.")
+
 - STDU / Mechanical
 - zh-CN / en-US / INFP
 - Studying and Coding
