@@ -1,6 +1,6 @@
 # Hi there, I'm Salfa. :wave:
 
-![Salfa](Pictures/profile_mini.svg "Salfa's Avatar.")
+![Salfa](avatar.svg "Salfa's Avatar.")
 
 - STDU / Mechanical
 - zh-CN / en-US / INFP
@@ -15,7 +15,7 @@
 - Email: `me@salfa.cc`
 - Coolapk: [`砂盐不甜`](https://www.coolapk.com/u/564201)
 - QQ: [`3028015326`](https://wpa.qq.com/msgrd?v=3&uin=3028015326&site=qq&menu=yes)
-- Bilibili: [`神奇的砂`](https://space.bilibili.com/33382859)
+- Bilibili: [`砂盐不甜`](https://space.bilibili.com/33382859)
 
 ---
 
